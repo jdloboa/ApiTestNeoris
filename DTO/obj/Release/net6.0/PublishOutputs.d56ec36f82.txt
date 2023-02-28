@@ -1,0 +1,3 @@
+C:\Users\juan.loboa\Desktop\TestApi\Api_Test\DTO\bin\Release\net6.0\publish\DTO.dll
+C:\Users\juan.loboa\Desktop\TestApi\Api_Test\DTO\bin\Release\net6.0\publish\DTO.deps.json
+C:\Users\juan.loboa\Desktop\TestApi\Api_Test\DTO\bin\Release\net6.0\publish\DTO.pdb
